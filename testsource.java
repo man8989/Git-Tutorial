@@ -1,6 +1,6 @@
     /** 
      * Returns author of this book. 
-     * @wi.implements TEST-511
+     * @wi.implements TEST-512
      */ 
 	 
 	 
